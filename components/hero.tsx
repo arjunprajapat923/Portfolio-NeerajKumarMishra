@@ -9,7 +9,7 @@ export default function Hero() {
           <div className="relative w-24 h-24 sm:w-28 sm:h-28 md:w-32 md:h-32 shrink-0 rounded-full overflow-hidden ring-4 ring-white/20">
             {/* Using placeholder; replace with a real portrait later */}
             <Image
-              src="/portrait-photo-of-professor.png"
+              src='https://i.ibb.co/WNLTJRqz/NKMSir-Photo.jpg'
               alt="Portrait of Dr. Neeraj Kumar Mishra"
               fill
               sizes="(max-width: 640px) 96px, (max-width: 768px) 112px, 128px"
